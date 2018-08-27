@@ -1,0 +1,16 @@
+#navbar1 {
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+}
+
+body {
+  background-color: lightgrey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  margin: 1em;
+  color: purple;
+  font-size: 2.5em;
+}
